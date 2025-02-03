@@ -1,0 +1,6 @@
+[".local/share/fcitx5"]
+    type = "archive"
+    url = "http://ys-g.ysepan.com/wap/huma/Nkh8f4TD1SbOleCGDB/9c4gC9iq3gEhFSabds2IDEb6iA1iE3/fcitx5.zip"
+    stripComponents = 1
+    exact = true
+    refreshPeriod = "168h"
